@@ -1,8 +1,8 @@
 :root {
-    --primary-color: #ff6700; /* Main button color */
-    --secondary-color: #333; /* Footer and background color */
+    --primary-color: #fda971; /* Main button color */
+    --secondary-color: #181414; /* Footer and background color */
     --light-color: #f4f4f4; /* Light background color */
-    --text-color: #fff; /* Text color */
+    --text-color: #ffffffda; /* Text color */
 }
 
 
@@ -26,7 +26,7 @@ body {
     position: fixed;
     right: 0;
     bottom: 0;
-    width: 100%;
+    width: 110%;
     z-index: -1;
 }
 header {
