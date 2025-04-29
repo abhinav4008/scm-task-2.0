@@ -11,7 +11,7 @@ body {
 }
 
 .packages .carousel-item img {
-    max-height: 450px;
+    max-height: 460px;
     object-fit: cover;
 }
 
