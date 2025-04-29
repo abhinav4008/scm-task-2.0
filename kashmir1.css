@@ -30,7 +30,7 @@ body {
     z-index: -1;
 }
 header {
-    background-color: rgba(24, 20, 20, 0.2);
+    background-color: rgba(27, 15, 15, 0.2);
     padding: 10px 5%;
     display: flex;
     justify-content: space-between;
