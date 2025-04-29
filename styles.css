@@ -6,7 +6,7 @@ body {
 
 .hero {
     background: url('https://example.com/hero.jpg') center/cover no-repeat;
-    color: white;
+    color: rgb(215, 149, 149);
     padding: 100px 0;
 }
 
