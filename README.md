@@ -1,6 +1,6 @@
 #scm task 2.0
 ##project overview
-a Web based project with html css and js
+A Web based project with html css and js
 ##team
 HEAD
 abhinav Gupta
